@@ -3,6 +3,5 @@
 ```
 cd ~/fedimint
 nix develop
-just test
-just test-real
+just fed-shell
 ```
