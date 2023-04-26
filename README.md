@@ -1,7 +1,6 @@
 # Fedimint Code Environment
 
 ```
-cd ~/fedimint
-nix develop
+cd fedimint
 just fed-shell
 ```
