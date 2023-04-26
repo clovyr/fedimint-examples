@@ -1,6 +1,6 @@
 # Fedimint Code Environment
 
 ```
-cd fedimint
+cd ~/git/fedimint
 just fed-shell
 ```
